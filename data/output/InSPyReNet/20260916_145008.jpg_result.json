@@ -1,0 +1,19 @@
+{
+  "image": "20260916_145008.jpg.png",
+  "jewellery_type": "necklace",
+  "metal": "gold",
+  "metal_color": "gold",
+  "gemstones": [
+    "red gemstone",
+    "green gemstone",
+    "pearl"
+  ],
+  "gemstone_count": 3,
+  "design": "ornate pendant with intricate filigree work, floral motifs, and colorful accents",
+  "chain_present": true,
+  "approximate_objects": [
+    "necklace",
+    "gold jewelry",
+    "ornate pendant"
+  ]
+}
